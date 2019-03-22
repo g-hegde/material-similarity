@@ -1,2 +1,2 @@
 # material-similarity
-Clusters materials from publicly available materials databases based on structural and electronic similarity
+Demonstrates the use of clustering materials using average electronic structure as features
